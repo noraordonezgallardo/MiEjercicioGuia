@@ -1,0 +1,16 @@
+C:\share\VERSION1.1\VERSION1.1\obj\Debug\net8.0-windows\VERSION1._1.Form1.resources
+C:\share\VERSION1.1\VERSION1.1\obj\Debug\net8.0-windows\VERSION1.1.csproj.GenerateResource.cache
+C:\share\VERSION1.1\VERSION1.1\obj\Debug\net8.0-windows\VERSION1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\share\VERSION1.1\VERSION1.1\obj\Debug\net8.0-windows\VERSION1.1.AssemblyInfoInputs.cache
+C:\share\VERSION1.1\VERSION1.1\obj\Debug\net8.0-windows\VERSION1.1.AssemblyInfo.cs
+C:\share\VERSION1.1\VERSION1.1\obj\Debug\net8.0-windows\VERSION1.1.csproj.CoreCompileInputs.cache
+C:\share\VERSION1.1\VERSION1.1\bin\Debug\net8.0-windows\VERSION1.1.exe
+C:\share\VERSION1.1\VERSION1.1\bin\Debug\net8.0-windows\VERSION1.1.deps.json
+C:\share\VERSION1.1\VERSION1.1\bin\Debug\net8.0-windows\VERSION1.1.runtimeconfig.json
+C:\share\VERSION1.1\VERSION1.1\bin\Debug\net8.0-windows\VERSION1.1.dll
+C:\share\VERSION1.1\VERSION1.1\bin\Debug\net8.0-windows\VERSION1.1.pdb
+C:\share\VERSION1.1\VERSION1.1\obj\Debug\net8.0-windows\VERSION1.1.dll
+C:\share\VERSION1.1\VERSION1.1\obj\Debug\net8.0-windows\refint\VERSION1.1.dll
+C:\share\VERSION1.1\VERSION1.1\obj\Debug\net8.0-windows\VERSION1.1.pdb
+C:\share\VERSION1.1\VERSION1.1\obj\Debug\net8.0-windows\VERSION1.1.genruntimeconfig.cache
+C:\share\VERSION1.1\VERSION1.1\obj\Debug\net8.0-windows\ref\VERSION1.1.dll
