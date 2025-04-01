@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\bin\\Debug\\OcultarContrasena.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\OcultarContrasena.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|c:\\share\\version2\\version2\\pinturilloso\\menujugador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:menujugador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\menujugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:menujugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\MenuJugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:MenuJugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\CrearUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:CrearUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\salapartida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:salapartida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD00ED-130A-4709-A968-F276CC7E6D66}|PinturilloSO.csproj|solutionrelative:crearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OcultarContrasena.png - PNG [295x198, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\bin\\Debug\\OcultarContrasena.png",
+              "RelativeDocumentMoniker": "bin\\Debug\\OcultarContrasena.png",
+              "ToolTip": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\bin\\Debug\\OcultarContrasena.png - PNG [295x198, 32 bits, PNG]",
+              "RelativeToolTip": "bin\\Debug\\OcultarContrasena.png - PNG [295x198, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-01T15:23:46.466Z",
+              "EditorCaption": " - PNG [295x198, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuJugador.Designer.cs",
+              "DocumentMoniker": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\MenuJugador.Designer.cs",
+              "RelativeDocumentMoniker": "MenuJugador.Designer.cs",
+              "ToolTip": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\MenuJugador.Designer.cs",
+              "RelativeToolTip": "MenuJugador.Designer.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAD4v9AAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:13:29.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:17:16.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\MenuInicio.cs",
+              "RelativeDocumentMoniker": "MenuInicio.cs",
+              "ToolTip": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\MenuInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MenuInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:41:47.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuInicio.cs",
+              "DocumentMoniker": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\MenuInicio.cs",
+              "RelativeDocumentMoniker": "MenuInicio.cs",
+              "ToolTip": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\MenuInicio.cs",
+              "RelativeToolTip": "MenuInicio.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwNYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:48:40.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuJugador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\MenuJugador.cs",
+              "RelativeDocumentMoniker": "MenuJugador.cs",
+              "ToolTip": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\MenuJugador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MenuJugador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:35:42.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuJugador.cs",
+              "DocumentMoniker": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\MenuJugador.cs",
+              "RelativeDocumentMoniker": "MenuJugador.cs",
+              "ToolTip": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\MenuJugador.cs",
+              "RelativeToolTip": "MenuJugador.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:27:57.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CrearUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\CrearUsuario.cs",
+              "RelativeDocumentMoniker": "CrearUsuario.cs",
+              "ToolTip": "C:\\Users\\polfd\\OneDrive\\Documentos\\Uni\\AT\\5tQ\\SO\\PinturilloSO\\V2\\VERSION2\\PinturilloSO\\CrearUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\polfd\\OneDrive\\Documentos\\Uni\\AT\\5tQ\\SO\\PinturilloSO\\V2\\VERSION2\\PinturilloSO\\CrearUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:24:59.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CrearUsuario.cs",
+              "DocumentMoniker": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\CrearUsuario.cs",
+              "RelativeDocumentMoniker": "CrearUsuario.cs",
+              "ToolTip": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\CrearUsuario.cs",
+              "RelativeToolTip": "CrearUsuario.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAqwH4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:14:31.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalaPartida.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\share\\VERSION2\\VERSION2\\PinturilloSO\\SalaPartida.cs",
+              "RelativeDocumentMoniker": "SalaPartida.cs",
+              "ToolTip": "C:\\Users\\polfd\\OneDrive\\Documentos\\Uni\\AT\\5tQ\\SO\\PinturilloSO\\V2\\VERSION2\\PinturilloSO\\SalaPartida.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\polfd\\OneDrive\\Documentos\\Uni\\AT\\5tQ\\SO\\PinturilloSO\\V2\\VERSION2\\PinturilloSO\\SalaPartida.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:53:37.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

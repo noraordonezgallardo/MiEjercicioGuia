@@ -1,0 +1,27 @@
+BD 
+usuarios id, nombre
+actividades id, nombre, barrio
+participación idUser, idParticipacion, gusta
+
+a) 
+
+CREATE DATABASE MisAlumnos;
+--> drop
+USE MisAlumnos;
+CREATE TABLE Usuarios(IDUsuario INT PRIMARY KEY, Nombre varchar(20)); (NOT NULL)
+
+(ALTER)	CREATE TABLE Actividades(IDActividad PRIMARY KEY, Nombre varchar(20), Barrio varchar(20));
+
+*ALTER: modificar una tabla ya existente
+
+
+CREATE PARTICIPACION(IDUsuario INT, IDActividad INT, FOREIGN KEY..., Gusta INT CHECK(Gusta>=1 AND Gusta <=5));
+
+**meter datos (SQL):
+INSERT INTO Usuarios (IDUsuario, Nombre) VALUES (1, 'Juan'), (2, 'Maria'), (3, 'Pedro');
+INSERT INTO Actividades (IDActividad, Barrio, Gusta) VALUES ...;
+INSERT INTO PARTICIPACION (IDUsuario, IDActividad, Gusta) VALUES (1,101,3),(1,102,5);
+
+
+
+

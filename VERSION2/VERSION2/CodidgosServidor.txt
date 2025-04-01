@@ -1,0 +1,4 @@
+'0/': Desconectar
+'1/': Crear usuario
+'2/': Información jugador
+'3/': Acceder sesión
